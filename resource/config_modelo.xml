@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <configuracao>
     <apostilas titulo="Nível 1">
-        <caminho>/home/walmir/Documentos/na/Apostila 1 nivel atual.pdf</caminho>
+        <caminho>/h/w/D/n/A.pdf</caminho>
         <frenteEVerso>true</frenteEVerso>
         <pretoEBranco>true</pretoEBranco>
         <qualidadeImpressao>NORMAL</qualidadeImpressao>
