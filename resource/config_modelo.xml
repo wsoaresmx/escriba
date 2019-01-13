@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<configuracao>
+    <apostilas titulo="Nível 1">
+        <caminho>/home/walmir/Documentos/na/Apostila 1 nivel atual.pdf</caminho>
+        <frenteEVerso>true</frenteEVerso>
+        <pretoEBranco>true</pretoEBranco>
+        <qualidadeImpressao>NORMAL</qualidadeImpressao>
+                
+        <catedras titulo="Ética">
+            <temas titulo="Tema I - Introdução à Ética">
+                <paginaInicial>4</paginaInicial>
+				<paginaFinal>21</paginaFinal>
+            </temas>
+            <temas titulo="Tema II - Bhagavad Gita">
+                <paginaInicial>22</paginaInicial>
+				<paginaFinal>43</paginaFinal>
+            </temas>
+            <temas titulo="Tema III - A Voz do Silêncio">
+                <paginaInicial>44</paginaInicial>
+				<paginaFinal>61</paginaFinal>
+            </temas>
+            <temas titulo="Tema IV - Buda">
+                <paginaInicial>62</paginaInicial>
+				<paginaFinal>81</paginaFinal>
+            </temas>                                                 
+            <temas titulo="Tema V - A Moral no Egito">
+                <paginaInicial>82</paginaInicial>
+				<paginaFinal>93</paginaFinal>
+            </temas>                                                 
+            <temas titulo="Tema VI - Confúcio">
+                <paginaInicial>94</paginaInicial>
+				<paginaFinal>107</paginaFinal>
+            </temas>                                                 
+            <temas titulo="Tema VII - Aristóteles">
+                <paginaInicial>94</paginaInicial>
+				<paginaFinal>117</paginaFinal>
+            </temas>
+            <temas titulo="Tema VIII - Plotino">
+                <paginaInicial>118</paginaInicial>
+				<paginaFinal>127</paginaFinal>
+            </temas>
+            <temas titulo="Tema IX - Kant">
+                <paginaInicial>128</paginaInicial>
+				<paginaFinal>139</paginaFinal>
+            </temas>                          
+        </catedras>
+        
+        <catedras titulo="Sociopolítica">
+            <temas titulo="Tema I - Os Problemas do Mundo e do Mundo Atual">
+                <paginaInicial>140</paginaInicial>
+				<paginaFinal>145</paginaFinal>
+            </temas>
+            <temas titulo="Tema II - Indivíduo, Sociedade e Estado">
+                <paginaInicial>146</paginaInicial>
+				<paginaFinal>155</paginaFinal>
+            </temas>
+            <temas titulo="Tema III - Caráter Masculino e Feminino nas Sociedades Primitivas e Atuais">
+                <paginaInicial>156</paginaInicial>
+				<paginaFinal>163</paginaFinal>
+            </temas>
+            <temas titulo="Tema IV - Platão, A República e as Leis, Os Estoicos">
+                <paginaInicial>164</paginaInicial>
+				<paginaFinal>219</paginaFinal>
+            </temas>
+            <temas titulo="Tema V - Formas Sociopolíticas da Antiguidade no Oriente e no Ocidente">
+                <paginaInicial>220</paginaInicial>
+				<paginaFinal>225</paginaFinal>
+            </temas>
+            <temas titulo="Tema VI - Roma e os Cidadãos do Mundo">
+                <paginaInicial>226</paginaInicial>
+				<paginaFinal>227</paginaFinal>
+            </temas>
+            <temas titulo="Tema VII - A Decadência do Ocidente como Unidade Política: Formas Medievais">
+                <paginaInicial>228</paginaInicial>
+				<paginaFinal>231</paginaFinal>
+            </temas>
+            <temas titulo="Tema VIII - Aparecimento da Sociedade Burguesa e do Estado Liberal">
+                <paginaInicial>232</paginaInicial>
+				<paginaFinal>235</paginaFinal>
+            </temas>
+            <temas titulo="Tema IX - Formas Políticas Modernas Estado Liberal e Dirigido">
+                <paginaInicial>236</paginaInicial>
+				<paginaFinal>239</paginaFinal>
+            </temas>
+            <temas titulo="Tema X - As Subestruturas Crescimento e Desenvolvimento do Estado Ideal">
+                <paginaInicial>240</paginaInicial>
+				<paginaFinal>241</paginaFinal>
+            </temas>                      
+        </catedras>        
+
+        <catedras titulo="Filosofia da História">
+            <temas titulo="Tema I - Introdução e Caráter Geral da História">
+                <paginaInicial>242</paginaInicial>
+				<paginaFinal>249</paginaFinal>
+            </temas>
+            <temas titulo="Tema II - Métodos de Exposição da História">
+                <paginaInicial>250</paginaInicial>
+				<paginaFinal>261</paginaFinal>
+            </temas>
+            <temas titulo="Tema III - Sentido da História e da Mitologia">
+                <paginaInicial>262</paginaInicial>
+				<paginaFinal>267</paginaFinal>
+            </temas>
+            <temas titulo="Tema IV - A História da Formação do Eu-Consciência Através do Eu-Lembrança">
+                <paginaInicial>268</paginaInicial>
+				<paginaFinal>281</paginaFinal>
+            </temas>           
+            <temas titulo="Tema V - Dharma-karma, Buda e a Libertação da História">
+                <paginaInicial>282</paginaInicial>
+				<paginaFinal>290</paginaFinal>
+            </temas> 
+        </catedras>        
+
+
+        
+    </apostilas>
+</configuracao>
