@@ -61,6 +61,7 @@ public class Escriba extends ApplicationWindow {
 		// Set the title bar text and the size
 		shell.setText("Escriba");
 		shell.setMaximized(true);
+		shell.open();
 	}
 
 	/**
@@ -73,7 +74,7 @@ public class Escriba extends ApplicationWindow {
 	protected Control createContents(Composite parent) {
 
 		final Composite composite = new Composite(parent, SWT.NONE);
-
+		
 		Configuracao configuracao = null;
 		try {
 			configuracao = ConfiguracaoService.getInstance().getContent();
@@ -100,7 +101,7 @@ public class Escriba extends ApplicationWindow {
 		tv.setContentProvider(new ApostilaTemaContentProvider(configuracao));
 		tv.setLabelProvider(new ApostilaTemaLabelProvider());
 		tv.setInput("root"); // pass a non-null that will be ignored
-		tv.expandAll();
+		tv.collapseAll();
 
 		Button imprimir = new Button(composite, SWT.BUTTON1);
 		imprimir.setText("Imprimir");
