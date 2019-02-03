@@ -61,7 +61,7 @@ public class PrintService {
 		attr.add(new PageRanges(tema.getPaginaInicial(), tema.getPaginaFinal()));
 		attr.add(Chromaticity.MONOCHROME);
 		attr.add(PrintQuality.NORMAL);
-		attr.add(Sides.TWO_SIDED_SHORT_EDGE);
+		attr.add(Sides.DUPLEX);
 		attr.add(new Copies(this.qtdeCopias));
 
 		if (exibirCaixaDialogo) {
